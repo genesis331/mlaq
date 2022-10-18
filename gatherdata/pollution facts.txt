@@ -1,0 +1,49 @@
+O3 -	pollutants emitted by cars,
+	power plants,
+	industrial boilers,
+	refineries,
+	chemical plants,
+	and other sources react chemically in the presence of sunlight.
+
+PM -	construction sites,
+	unpaved roads,
+	fields,
+	smokestacks,
+	fires.
+	The primary source includes automobile emissions, dust and cooking smoke. 
+	The secondary source of pollution can be due to complex reactions of chemicals like 
+	sulphur dioxide and nitrogen oxide. These particles are mixed in air and pollute it. 
+	Apart from these, forest fires, wood burning stoves, agricultural burning, smoke of the industry, 
+	dust occur from various construction sites also causes air pollution etc.
+
+SO2 -	fossil fuels,
+	other materials that contain sulfur - power plants, metals processing and smelting facilities, and vehicles.
+	About 99% of the sulfur dioxide in air comes from human sources. 
+	The main source of sulfur dioxide in the air is industrial activity that processes materials that contain sulfur, 
+	eg the generation of electricity from coal, oil or gas that contains sulfur. Some mineral ores also contain sulfur,
+	and sulfur dioxide is released when they are processed. In addition, industrial activities that burn fossil fuels 
+	containing sulfur can be important sources of sulfur dioxide.
+
+CO -	The main sources of additional carbon monoxide are motor vehicle exhaust and some industrial activities, 
+	such as making steel.
+	Tobacco smoke is one of the main indoor sources of carbon monoxide.
+	***The natural concentration of carbon monoxide in air is around 0.2 parts per million (ppm), 
+	and that amount is not harmful to humans. Natural sources of carbon monoxide include volcanoes and bushfires.
+	
+NO2 - 	NO2 primarily gets in the air from the burning of fuel. NO2 forms from emissions from cars, trucks and buses, 
+	power plants, and off-road equipment.
+
+
+Sources of SO2 emissions in Singapore include industries such as refineries and power stations, as well as motor vehicles.
+
+The high per-capita SO2emissions in Singapore are due to oil-powered industrial plants 
+(Arndt et al., 1997; Ministry of theEnvironment and Water Resources, 2008a). Orlic et al. (1999),
+based on a source apportionment study, also identified oil refi-neries as an additional source of SO2
+
+The main sources of air pollution in Singapore are from the burning of fossil fuel for heat generation in industries, electricity generation and transportation.
+
+The sources of air pollution can be grouped into three categories as follows:
+
+    stationary sources such as power stations, oil refineries and industries; 
+    mobile sources such as motor vehicles; and 
+    others such as open burning of waste materials and transboundary air pollution.

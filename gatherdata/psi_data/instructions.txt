@@ -1,0 +1,6 @@
+after getting json data,
+run sort.js to sort the sequence of date,
+then run total.js to get the total of each date,
+then run mean.js to get the mean,
+
+P.S. delete every txt file before doing it cuz some have appendFile functions

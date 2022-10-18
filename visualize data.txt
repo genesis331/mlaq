@@ -1,0 +1,28 @@
+bus_pop - https://tensorboard.dev/experiment/1PD1fr0tQTOPbgfDyrJ9iA/ 
+car_pop - https://tensorboard.dev/experiment/84QvegwESomQsYGToRefLA/
+com_service_electricity_consumption - https://tensorboard.dev/experiment/6zKAC9xATxSnpvmrTPtnkg/
+electricity_consumption - https://tensorboard.dev/experiment/93eQD1TdTd2rmu9W4OEGjQ/
+electricity_generation - https://tensorboard.dev/experiment/ZHjEuwBnQBuGJiGEg3dmzQ/
+goods_others_population - https://tensorboard.dev/experiment/C5AL0k48TgOYebcdpmh0Pw/
+household_electricity_consumption - https://tensorboard.dev/experiment/BQmNeeP2Sj6SoSWWObg4tQ/
+industrial_electricity_consumption - https://tensorboard.dev/experiment/dkI0N9veQiqeyFEExd7JyQ/
+motor_scooters_pop - https://tensorboard.dev/experiment/pd6vOnE1Sk6FE9crH2uPeg/
+others_electricity_consumption - https://tensorboard.dev/experiment/3yc1J22DRRirCMfKULaNdQ/
+rental_cars_pop - https://tensorboard.dev/experiment/QGgSMPUxT3u2FBmbwraA9g/
+taxis_pop - https://tensorboard.dev/experiment/GGKW4RAqSjSQFQTYrlWWxw/
+
+NEW
+
+bus_pop - https://tensorboard.dev/experiment/p6uZIYbJR9qk6MZPnOTx6Q/
+car_pop - https://tensorboard.dev/experiment/zLDcQhy4Qpe1HebPx2tkOA/
+com_service_electricity_consumption - https://tensorboard.dev/experiment/DyWHkkeRQAeHDBrjBFjDLA/
+electricity_consumption - https://tensorboard.dev/experiment/nKVhJGM4SoesRNl0wiEI5A/
+electricity_generation - https://tensorboard.dev/experiment/Lee46kP1Qhmq8xX8lgsRcw/
+goods_others_population - https://tensorboard.dev/experiment/7kfVimszQWiVjoo9Dm7p0A/
+household_electricity_consumption - https://tensorboard.dev/experiment/Z9NAd8iRQSqncZn57InWmA/
+industrial_electricity_consumption - https://tensorboard.dev/experiment/AgTME0yKTze8YyDSoRKBJw/
+motor_scooters_pop - https://tensorboard.dev/experiment/g9E6a0L8QKGSK7kHb35bWg/
+others_electricity_consumption - https://tensorboard.dev/experiment/xL76JrD6RbWDS3Wk00QHxA/
+rental_cars_pop - https://tensorboard.dev/experiment/Wx9QF4JAQvKSOyw9gwZ8eA/
+taxis_pop - https://tensorboard.dev/experiment/VFqiEDW1QAKJsbl01TNMBA/
+total_vehicles - https://tensorboard.dev/experiment/2PEewSkcRpamGXcbRfnPDA/
